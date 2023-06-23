@@ -4,7 +4,7 @@
 
 ## <div align = "center" > Welcome to my GitHub profile! 👋 </div>
 
-😊 I'm Kome, a passionate software tester currently working at Global Trybe. I specialize in manual testing and am expanding my skills in test automation 
+😊 **I'm Kome**, a passionate software tester currently working at Global Trybe. I specialize in manual testing and am expanding my skills in test automation 
 - 🌱 I am currently focusing on learning and implementing test automation techniques to increase efficiency and effectiveness.
 - 👀 I’m looking to collaborate on available projects to test.
 - 👯 I enjoy collaborating with cross-functional teams to ensure high-quality software delivery.
@@ -16,7 +16,7 @@
 - **CI/CD**: Understanding of Continuous Integration and Continuous Deployment practices, including tools like Jenkins <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCbLBdj-FHozznGvf2MphU1KiZz4xCGW0mQ8vMLOmFyQclzAmxQMpXH7sOwxjW_SbTEs&usqp=CAU" width="15px" height="15px"> and GitHub Actions <img src = "https://raw.githubusercontent.com/github/explore/2c7e603b797535e5ad8b4beb575ab3b7354666e1/topics/actions/actions.png" width="15px" height="15px">
 - **Programming Languages**: Knowledge of JavaScript <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEMnMfriAVXO-L9_ZIU-4UAMNybVu5_XLfDQjZHkYOzURcrml7OXJZyn2LS1mgRrLqcU&usqp=CAU" height="15px">
 
-My favourite quote is "**Quality Never Dies.**"
+My favourite quote is "*Quality Never Dies.*"
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oghenekome-edaware)
