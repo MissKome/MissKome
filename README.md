@@ -1,4 +1,4 @@
-<div class = "container" ><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFonCzy1PHCpCwsIIOCjdGqAQ4BmIns8Idt3K-b4aLBG8kz0kr67Zt_vQVPp7uBFibYw&usqp=CAU" style="width: 100%; height: 100%; object-fit: cover"></div>
+<div align = "center" ><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFonCzy1PHCpCwsIIOCjdGqAQ4BmIns8Idt3K-b4aLBG8kz0kr67Zt_vQVPp7uBFibYw&usqp=CAU" object-fit: cover"></div>
 
 ***
 
